@@ -18,4 +18,5 @@ multiprocessingのPoolよりも効率的にリソースを利用でき、Process
 
 # Requirement
 anaconda
+
 multiprocessing
