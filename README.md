@@ -2,7 +2,7 @@
 キューベースの並列処理用ステートマシンタイプのフレームワーク
 
 以下のようにパイプラインアーキテクチャを効率的に実装し、並列処理を簡単かつ効率的に行うことが出来ます。
-<img src=multipipeline_queue_test.png> <img src=test_code.png>
+<img src=multipipeline_queue_test.png> <img src=multipipeline_queue_test_code.png>
 
 # 特徴
 それぞれのプロセスがステートマシンのように非同期で並列実行される為、あらゆるアーキテクチャに対応しリソースを最大限に利用したアプリケーションを実行することが出来ます。
