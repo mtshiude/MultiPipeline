@@ -2,7 +2,7 @@
 キューベースの並列処理用フレームワーク
 
 以下のようにパイプラインアーキテクチャを効率的に実装し、並列処理を簡単かつ効率的に行うことが出来ます。
-![proj_image1](multipipeline_queue_test.png)![proj_image2](test_code.png)
+<img src=multipipeline_queue_test.png> <img src=test_code.png>
 
 特徴
 それぞれのプロセスがステートマシンのように非同期で並列実行される為、あらゆるアーキテクチャに対応しリソースを最大限に利用したアプリケーションを実行することが出来ます。
