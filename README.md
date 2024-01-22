@@ -1,5 +1,5 @@
 # MultiPipeline
-キューベースの並列処理用ステートマシンタイプのフレームワーク
+キューベースの並列処理用ステートマシンフレームワーク
 
 以下のようにパイプラインアーキテクチャを効率的に実装し、並列処理を簡単かつ効率的に行うことが出来ます。
 <img src=multipipeline_queue_test.png> <img src=multipipeline_queue_test_code.png>
